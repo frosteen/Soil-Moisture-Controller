@@ -1,0 +1,8 @@
+Arduino Nano
+Micro Serial Cable
+Water Pump
+Water Pipe
+Soil Moisture Sensor
+TIP120IC
+Case
+12V Power Adapter
